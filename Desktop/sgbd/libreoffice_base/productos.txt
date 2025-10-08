@@ -1,0 +1,2 @@
+1 regadera 23 4
+2 rastrillo 4 20
